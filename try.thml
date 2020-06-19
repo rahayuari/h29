@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width-device-width, initial-scale=1.0">
+<meta http-equiv ="X-UI-Compatible" content="ie=edge">
+	<title>H29 Travel</title>
+	<link rel="stylesheet" href="stylesheet.css">
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap" rel="stylesheet">
+	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</head>
+<body>
+<div class="wrapper">
+	<div class="nav">
+		<div class="logo">
+			<h1><img src="img/logo.png"></h1>
+		</div>
+		<div class="links">
+			<a href="" class="mainlink">Home</a>
+			<a href="">Package Travel</a>
+			<a href="">Car Hire</a>
+			<a href="">Contact Us</a>
+			<a href="">Term & Condition</a>
+		</div>
+	</div>
+
+	<!--Landing Page-->
+	<div class="landing">
+		<!--<div class="landingText" data-aos="fade-up" data-aos-duration="1000">
+			<h1>Stay in <span style="color:#e0501b;font-size:4vw;">Stay safe.</span></h1>
+			<h3>lets all work together to put an end to this pandemic.<br> Help stop the spread.</h3>
+			<div class="btn">
+				<a href="#">Learn More</a>
+			</div>
+		</div>
+		<div class="landingImage" data-aos="fade-down" data-aos-duration="2000">
+			<img src="img/relax.png" alt="">
+		</div>-->
+		<div class="landingImage">
+			<img src="foto/anigif.gif" alt="">
+		</div>
+	</div>
+
+
+	<!--About Section
+	<div class="about">
+		<div class="abouText" data-aos="fade-left" data-aos-duration="1000">
+			<h1>Why is it important that <br> <span style="color:#2f8be0;font-size:3vw;">You Stay Home</span></h1>
+			<img src="img/medical.png">
+		</div>
+		<div class="aboutList" data-aos="fade-up" data-aos-duration="1000">
+			<ol>
+				<li><span>01</span>
+				<p>Covid-19, which is now fast growing global pandemic. The number of confirmed cases worldwide has exceeded 
+				25,65,000 due to rapid spreading of the virus. </p>
+				</li>
+				<li><span>02</span>
+				<p>Covid-19, spreads very easily much easier than many other regular illnessess we deal with on a reguler basis. thats what makes it so dangerous. </p>
+				</li>
+				<li><span>03</span>
+				<p>The best course of action is to stay at home prevent the spread of the disease as well as hospital getting overwhelmed with patient who simply shouldn't be there. </p>
+				</li>
+				<li><span>04</span>
+				<p>As of today, no one know how to cure and no approved vaccine for covid-19. </p>
+				</li>
+			</ol>
+		</div>
+	</div> -->
+
+	<!--Info Section-->
+	<div class="infoSection">
+		<div class="infoHeader" data-aos="fade-up" data-aos-duration="1000">
+			<h1>Let's Find Out <br><span style="color:e0501b;">Your Travel Destination</span></h1>
+		</div>
+		<div class="infoCards">
+			<div class="card one" data-aos="fade-up" data-aos-duration="1000">
+				<img src="foto/1.jpg" alt="" class="cardoneImg" data-aos="fade-up" data-aos-duration="1100">
+				<div class="cardbgone"></div>
+					<div class="cardContent">
+						<h2>Tanah Lot Tabanan Bali</h2>
+						<p>The main attraction of Tanah Lot Bali lies in the uniqueness of the Tanah Lot temple which is located on a large rock. The view of the sunset with the temple's silhouette is a very enchanting sight.</p>
+						<a href="">
+							<dic class="cardBtn">
+								<img src="img/arrow.png" alt="" class="cardIcon">	
+							</dic>
+						</a>
+				</div>
+			</div>
+			<div class="card two" data-aos="fade-up" data-aos-duration="1300">
+				<img src="foto/2.jpg" alt="" class="cardtwoImg" data-aos="fade-up" data-aos-duration="1200">
+				<div class="cardbgtwo"></div>
+					<div class="cardContent">
+						<h2>Tanjung Benoa</h2>
+						<p>There are three Tanjung Benoa watersport activities that are favored by Indonesian tourists: Single Parasailing, Tour to the Turtle Island of Tanjung Benoa, Jet ski riding in the middle of the sea.</p>
+						<a href="">
+							<dic class="cardBtn">
+								<img src="img/arrow.png" alt="" class="cardIcon">	
+							</dic>
+						</a>
+				</div>
+			</div>
+			<div class="card three" data-aos="fade-up" data-aos-duration="1600">
+				<img src="foto/4.jpg" alt="" class="cardthreeImg" data-aos="fade-up" data-aos-duration="1300">
+				<div class="cardbgone"></div>
+					<div class="cardContent">
+						<h2>Pura Ulun Danu – Danau Beratan Bedugul</h2>
+						<p>The uniqueness of the location of Ulun Danu temple in the middle of the lake and the cool air. it really make a vacation to the Lake Beratan Bedugul is attractions.</p>
+						<a href="">
+							<dic class="cardBtn">
+								<img src="img/arrow.png" alt="" class="cardIcon">	
+							</dic>
+						</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+
+	<!--Banner Adn Footer-->
+	<div class="banner">
+		<div class="bannerText" data-aos="fade-right" data-aos-duration="1000">
+			<h1>Download a H29 Travel Apllication Today.<br><span style="font-size:1.6vw;font-weight:normal;" class="bannerInnerText">
+				Stay Updated and Get All Your Traveling Problem Taken Care Off!
+			</span></h1>
+			<a href=""><img src="img/googleappstore.png"></a>
+			<a href=""><img src="img/appleappstore.png"></a>
+		</div>
+		<div class="bannerImg">
+			<img src="img/banner.png" data-aos="fade-up" data-aos-duration="1000">
+		</div>
+	</div>
+<!--	<div class="footer">
+		<h2>Health Care</h2>
+		<div class="footerlinks">
+			<a href="" class="mainlink">Corona Update</a>
+			<a href="">Help</a>
+			<a href="">About</a>
+			<a href="">Contact</a>
+		</div>
+	</div> -->
+	<div class="footers">
+			<p>Copyright &copy; 2020  Simple Design by H29 Teams All Right Reserved.</p>
+		</div>
+</div>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+</body>
+</html>
+
+
+
